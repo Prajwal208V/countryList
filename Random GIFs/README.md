@@ -19,13 +19,19 @@ coming to my weekness
   <p>coming to my projects
  i have done some projects assigned by prepbytes like
  to-do-list : this project use to maintain our day to day tasks of everything that we have to do, with the most important tasks at the top of the list, and the least important tasks at   the bottom. It is helpful in planning our daily schedules. We can add more tasks any time and delete a task which is completed
+  --------------------------------------------------------------------------------------
   </P>
- digital clock project:
+ <p>digital clock project:
+  --------------------------------------------------------------------------------------
  Along with i have done some projects my self like
  API/country list:
+  --------------------------------------------------------------------------------------
  Dice-Game:
+  --------------------------------------------------------------------------------------
  guess_my_number game:
+  --------------------------------------------------------------------------------------
  weather-web app:
- mapty app:
+  --------------------------------------------------------------------------------------
+ mapty app:</p>
  
 
