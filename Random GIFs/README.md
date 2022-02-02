@@ -16,7 +16,15 @@ coming to my weekness
  and my comminication also not good so i am speaking with my self every day and i am thinking also in english
   
   coming to my projects
- i have done some projects assigned by prepbytes like to-do-list and digital clock project, Along with i have done some projects my self  
- like API/country list, Dice-Game, guess_my_number game, weather-web app and mapty app
-
+ i have done some projects assigned by prepbytes like
+ to-do-list : this project use to maintain our day to day tasks of everything that we have to do, with the most important tasks at the top of the list, and the least important tasks at   the bottom. It is helpful in planning our daily schedules. We can add more tasks any time and delete a task which is completed
+  
+ digital clock project:
+ Along with i have done some projects my self like
+ API/country list:
+ Dice-Game:
+ guess_my_number game:
+ weather-web app:
+ mapty app:
+ 
 </p>
