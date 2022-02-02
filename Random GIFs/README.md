@@ -21,8 +21,7 @@ coming to my weekness
  to-do-list : this project use to maintain our day to day tasks of everything that we have to do, with the most important tasks at the top of the list, and the least important tasks at   the bottom. It is helpful in planning our daily schedules. We can add more tasks any time and delete a task which is completed
   --------------------------------------------------------------------------------------
   </P>
- <p>digital clock project:  is to use the date object to get time on every second
-and then re-rendering time on the browser using the new time that we got by calling the same function each second.
+ <p>digital clock project:
  </p>
  <p>
  Along with i have done some projects my self like
