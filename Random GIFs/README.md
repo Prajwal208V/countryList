@@ -21,22 +21,23 @@ coming to my weekness
  to-do-list : this project use to maintain our day to day tasks of everything that we have to do, with the most important tasks at the top of the list, and the least important tasks at   the bottom. It is helpful in planning our daily schedules. We can add more tasks any time and delete a task which is completed
   --------------------------------------------------------------------------------------
   </P>
- <p>digital clock project:
+ <p>digital clock project:  is to use the date object to get time on every second
+and then re-rendering time on the browser using the new time that we got by calling the same function each second.
  </p>
  <p>
  Along with i have done some projects my self like
- API/country list:
+ API/country list:list of countries with good UI it shows every county flag,population of that country,currency name and  netive languge of country
  </p>
  <p>
- Dice-Game:
+ Dice-Game:The Dice Game is based on a two-player. Both players roll the dice and the player who gets the highest phase value will win the game.using HTML, CSS, and JavaScript.
  </p>
  </p>
  guess_my_number game:
  </p>
  <p>
- weather-web app:
+ weather-web app:Using weather API, we can get weather data for each citeis of world
  </p>
  <p>
- mapty app:</p>
+ mapty app:Log user running workouts with location, distance, time, pace and steps/minute using GEOLOCATION api
  </p>
 
