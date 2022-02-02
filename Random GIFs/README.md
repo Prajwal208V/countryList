@@ -16,7 +16,7 @@ coming to my weekness
  and my comminication also not good so i am speaking with my self every day and i am thinking also in english
   
   coming to my projects
- i have done some projects assigned by prepbytes like to-do-list and digital clock project, Along with i have done some projects my self like 
+ i have done some projects assigned by prepbytes like to-do-list and digital clock project, Along with i have done some projects my self  
  like API/country list, Dice-Game, guess_my_number game, weather-web app and mapty app
 
 </p>
