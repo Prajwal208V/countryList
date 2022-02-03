@@ -37,5 +37,5 @@ coming to my weekness
  weather-web app:Using weather API, we can get weather data for each citeis of world
  </p>
  <p>
- mapty app:Log user running workouts with location, distance, time, pace and steps/minute using GEOLOCATION api
+ mapty app:Log user running workouts with location, distance, time, pace and steps/minute using GEOLOCATION api and Leaflet library
  </p>
