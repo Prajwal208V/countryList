@@ -1,4 +1,4 @@
-<!-- <p>Hello everyone !! 👋
+ <p>Hello everyone !! 👋
 
 I am Prajwal V, a Full Stack Developer !! 😊
 
@@ -39,5 +39,3 @@ coming to my weekness
  <p>
  mapty app:Log user running workouts with location, distance, time, pace and steps/minute using GEOLOCATION api
  </p>
-
- -->
